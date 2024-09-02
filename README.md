@@ -129,7 +129,9 @@ print(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGus
 ```
 ## Output:
 ![Screenshot 2024-09-02 211920](https://github.com/user-attachments/assets/826a4cc4-bb74-426f-b423-c5523871d632)
+
 ![Screenshot 2024-09-02 212405](https://github.com/user-attachments/assets/19c640fc-d854-422e-a5d8-e23dc6c8174a)
+
 ![Screenshot 2024-09-02 212434](https://github.com/user-attachments/assets/f1d9bf85-f26f-4145-a73d-6c153a6922b6)
 
 ## Result:
